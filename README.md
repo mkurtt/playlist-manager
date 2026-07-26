@@ -1,10 +1,10 @@
 Playlist Manager
-****************
+################
 
 Written in C. Uses a doubly linked list to store and manage songs.
 
 What it does
-------------
+############
 
   - Add a song to the beginning, end, or a specific position
   - Delete a song by title
@@ -12,7 +12,7 @@ What it does
   - Calculate total duration
 
 How to run
-----------
+##########
 
   gcc main.c -o main
   ./main
